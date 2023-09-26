@@ -1,6 +1,5 @@
---use Roomex
 
--- Following on from designing the Schema for my database, I will now be creating the tables that will populate this as follows:
+-- Following on from designing the Schema, I write the following queries to create all the required tables in my schema. 
 
  CREATE TABLE Hotel (
     HotelID INT PRIMARY KEY,
